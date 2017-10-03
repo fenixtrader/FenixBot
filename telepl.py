@@ -267,9 +267,9 @@ def worker():
 
             if want_pictures:
                 if poloResults[gtid]['type'].upper() == "BUY":
-                    bot.send_photo(chat_id=TG_ID, photo='https://raw.githubusercontent.com/DreamersTrader/Imagenes-BUY-SELL/master/buy.png')
+                    bot.send_photo(chat_id=TG_ID, photo='https://raw.githubusercontent.com/Fenixtrader/Imagenes-BUY-SELL/master/buy.png')
                 else:
-                    bot.send_photo(chat_id=TG_ID, photo='https://raw.githubusercontent.com/DreamersTrader/Imagenes-BUY-SELL/master/sell.png')
+                    bot.send_photo(chat_id=TG_ID, photo='https://raw.githubusercontent.com/Fenixtrader/Imagenes-BUY-SELL/master/sell.png')
 
             # Construct strings
             # POLONIEX: BTC_DASH 2017-07-20 18:25:15 SELL of 194.19281307 DASH at 0.07390809 with revenue of +0.00919869
