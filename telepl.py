@@ -13,8 +13,8 @@
 # pip install python-telegram-bot --upgrade
 
 # Generate new API key/secret from Poloniex and put them here
-pkey = 'Z2L8WN5K-M8S8EKSX-OJW8JDMY-1KA1W4ZL'
-spkey = '3044dcfe0b20f71d423060ad8b662fb95cab1fa8dfd83d1a1cd335f921c840434c63a8832dc5e97a4448c485525803d54c70fa71b8002919e81609cf4a8f4f72'
+pkey = ''
+spkey = ''
 
 # Put in your telegram chat id from @get_id_bot
 # Add the bot and start chat: https://telegram.me/get_id_bot
