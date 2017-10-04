@@ -19,10 +19,10 @@ spkey = ''
 # Put in your telegram chat id from @get_id_bot
 # Add the bot and start chat: https://telegram.me/get_id_bot
 # It will respond with 'Your Chat ID = NNNNNNN'
-TG_ID = "314185412"
+TG_ID = ""
 
 # Put in the telegram bot token from @BotFather
-TG_BOT_TOKEN = "388520305:AAHJ2xrwdUhWYN_fvOlV9cjY8F-O9nf_dpM"
+TG_BOT_TOKEN = ""
 
 # If you don't want the 'BUY'/'SELL' images in your Telegram, set this to False
 want_pictures = True
